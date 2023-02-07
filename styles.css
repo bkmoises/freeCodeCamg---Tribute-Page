@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  color: #333;
   font-family: 'Segoe UI', sans-serif;
 }
 
@@ -10,8 +11,17 @@
 
 .background {
   background: #EEE;
-  margin: 30px 10px;
+  margin: 30px auto;
   border-radius: 5px;
-  box-shadow: 2px 3px 1px #eee
+  width: 99%;
 }
 
+.header {
+  text-align: center;
+  padding: 45px 0 18px;
+}
+
+.header h1 {
+  font-size: 40px;
+  padding-bottom: 21px;
+}
