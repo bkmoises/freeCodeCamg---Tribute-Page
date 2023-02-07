@@ -25,3 +25,16 @@
   font-size: 40px;
   padding-bottom: 21px;
 }
+
+#img-div {
+  background: #FFF;
+  width: 97.5%;
+  margin: 0 auto;
+  box-shadow: -2px -2px 1px #eee;
+  text-align: center;
+  padding: 10px 0 17px;
+}
+
+#img-div img {
+  padding-bottom: 12px;
+}
