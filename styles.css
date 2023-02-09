@@ -36,7 +36,13 @@
 }
 
 #img-div img {
+  display: block;
   padding-bottom: 12px;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
 }
 
 #tribute-info {
