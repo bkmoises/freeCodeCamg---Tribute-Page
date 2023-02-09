@@ -38,6 +38,7 @@
 #img-div img {
   display: block;
   padding-bottom: 12px;
+  margin: 0 auto;
 }
 
 #image {
