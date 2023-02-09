@@ -70,6 +70,16 @@
   padding-bottom: 15px;
 }
 
-.author {
+.footer {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
 
+.footer a:visited {
+  color: #74638F;
 }
