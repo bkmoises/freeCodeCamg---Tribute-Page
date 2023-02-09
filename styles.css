@@ -59,3 +59,17 @@
   text-align: left;
   margin-left: 20px;
 }
+
+.mention {
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.mention-text {
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+
+.author {
+
+}
